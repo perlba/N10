@@ -1,0 +1,58 @@
+  <div id="page">
+<div id ="sidebar">
+<ul id="sidebar-items">  
+
+    
+    
+    
+    <a class="navbar-brand" href="" title="Home"><input type='submit' value='Home' /></a>
+    
+    
+    
+  
+
+
+<style>
+body {
+    background-color: lightblue;
+}
+</style>
+
+<body>
+
+
+    <div class="container theme-showcase" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>MySQL</h1>
+        <h2 class="featured-subtitle">Baza podataka</h2>
+
+			
+		
+		
+		
+		<h2>Perl</h2>
+            <input type='hidden' name='path' value='<% requested_path %>'/>
+             <form action='/Step06' method='POST'>
+            <input type='submit' value='Korak-6' /> 
+            
+            </form>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>	   				
+                
+
+
+    
+
+
+   
