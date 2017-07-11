@@ -2,6 +2,25 @@ package Web;
 use Dancer2;
 
 
+ my $flash;
+
+ sub set_flash {
+     my $message = shift;
+
+     $flash = $message;
+ }
+
+ sub get_flash {
+
+     my $msg = $flash;
+     $flash = "";
+
+     return $msg;
+ } 
+
+
+
+
     
 
     hook before => sub {
@@ -133,7 +152,7 @@ use Dancer2;
 
     post '/login' => sub {
         # Validate the username and password they supplied
-        if (param('user') eq 'edin' && param('pass') eq 'in') {
+        if (param('user') eq 'edin' && param('pass') eq 'in2') {
             session user => param('user');
             redirect param('path') || '/';
         } else {
@@ -141,6 +160,9 @@ use Dancer2;
         }
     };
     
-   
+    get '/logout' => sub {
+    app->destroy_session;
+    set_flash('You are logged out.');
+    redirect '/';};
 
     dance();

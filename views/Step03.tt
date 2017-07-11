@@ -47,7 +47,7 @@ body {
 			   		<p>Kucajte: vim (malim slovima)</p>
 			   		<p>Sada se nalazimo u vim editoru</p>
 			   		<p>Kada zelimo da tipkamo u vim-u</p>
-			   		<p>Tada stisnemo i</p>
+			   		<p>Tada stisnemo slovo i</p>
 			   		<p> i=insert</p>
 			   		<p>Kliknite i ,pa zatim tipkajte nesto</p>
 			   		<p>Ide li to :)</p>
@@ -60,7 +60,7 @@ body {
 			   		<p>Ako kliknemo a</p>
 			   		<p>Tada je insert jedno polje na desno</p>
 			   		<p>Slovo o ide u liniju ispod i aktivira insert</p>
-			   		<p>Vekiko O gura trenutni text ispod aktivira insert i ostaje u toj liniji</p>
+			   		<p>Slovo o gura trenutni text ispod aktivira insert i ostaje u toj liniji</p>
 			   		<p>Uvijek kad zavrsimo sa insertovanjem, obavezno Esc</p>
 			   		<p>Ako kliknemo x tada instantno brisemo to polje(Slovo-Znak)</p>
 			   		<p>x brise ali insert nije aktiviran</p>
@@ -83,7 +83,7 @@ body {
 			   		
 			   		<p>Sledece ajd nesto utipkajte vjezbajte kretanje Esc i tako</p>
 			   		<p>Sada kada imate neki text nesto smo napisali</p>
-			   		<p>Sada treba to da snimimo i da savuvamo, jel?</p>
+			   		<p>Sada treba to da snimimo i da sacuvamo, jel?</p>
 			   		<p>Prvo kliknemo Esc da zakljucamo dokument</p>
 			   		<p>Stisnemo tipku Shift(drzimo stisnutu) i klikneno (:)</p>
 			   		<p>Dvotacku (:) mora sada da imamo dole lijevo u editoru prikazanu</p>

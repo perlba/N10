@@ -1,4 +1,39 @@
-<div id="page">
+<!-- Grab jQuery from a CDN, fall back to local if necessary -->
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://www.perl.ba:5000"><\/script>')
+/* ]]> */</script>
+
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    
+    
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Linux</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/css/theme.css" rel="stylesheet">
+  </head>
+
+  <body role="document">
+  
+  	
+  
+  
+  <div id="page">
 <div id ="sidebar">
 <ul id="sidebar-items">  
 
@@ -7,7 +42,13 @@
     
     <a class="navbar-brand" href="" title="Home"><input type='submit' value='Home' /></a>
     
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/readable/bootstrap.min.css" rel="stylesheet">
     
+    
+	<p>
+	<a class="btn btn-primary btn-lg"href="https://www.perl.org/"  role="button">Perl</a>
+	
+	</p>
     
     
     
@@ -16,7 +57,7 @@
 
 <style>
 body {
-    background-color: lightgreen;
+    background-color: lightblue;
 }
 </style>
 
@@ -28,14 +69,56 @@ body {
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <h1>Perl</h1>
-        <h2 class="featured-subtitle">Osnove</h2>
+        <head>
+<style>
+p {
+    text-align: center;
+    color: red;
+} 
+</style>
+</head>
+<body>
+<p>Pathologically Eclectic Rubbish Lister</p>
+  </body>      
+        <h3 class="featured-subtitle">"Practical Extraction and Reporting Language".</h3>
 
-       
-       <h4>CPAN<a> </a></h4>
-            <input type='hidden' name='path' value='<% requested_path %>'/>
+
+			   				
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		
+			   		<h3>Sledeci korak</h3>
+            <input type='hidden' name='path' value=''/>
              <form action='/Step07' method='POST'>
-            <input type='submit' value='Korak-7' /> 
+            <input type='submit' value='CPAN' /> 
             
             </form>
-            
-            </div>
+
+      </div>
+
+    </div> <!-- /container -->
+
+
+    
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/javascripts/jquery-2.2.0.min.js"><\/script>')</script>
+    <script src="/javascripts/bootstrap.min.js"></script> 
+  </body>
+</html>

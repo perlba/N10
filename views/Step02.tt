@@ -62,7 +62,7 @@ h4 {
 			   		 <h4>Ovo je neizbjezno da se nekom desi</h4>
 			   		 </body>
 			   		<h1>Terminal</h1>
-			   		<p>Poslije urednog bootanja utipkajte pod user:root</p>
+			   		<p>Poslije urednog bootanja utipkajte (root) izgledat ce user:root(Stisnite Enter)</p>
 			   		<p>Utipkajte:password koji ste sami izabrali prilikom zavrsetka instalacije.</p>
 			   		<h2>adduser</h2>
 			   		<p>Prvo cemo da kreiramo novog korisnika</p>
@@ -95,7 +95,7 @@ h4 {
 			   		<p>ls - izlistava sve sto se nalazi unutar foldera u kojem se nalazimo</p>
 			   		<p>Probajte sada ls -l, ls -t, ls -a, ls -b, ls -F, ls -al</p>
 			   		<p>Kada tipkate ls -al tada cete da vidite pored svakog foldera ili fajla nesto kao-rw-r--r--</p>
-			   		<p>To vam govori u kojem modu je neki folder ili fajl, to vam prepustam da samo naucite sta je chmod komanda</p>
+			   		<p>To vam govori u kojem modu je neki folder ili fajl, to vam prepustam da sami istrazite sta je chmod komanda</p>
 			   		<p>chmod cete koristit kada se susretnete kao root user u neki fajl i prikaze Permisson Denied</p>
 			   		<p>Sledeca komanda je cd /home</p>
 			   		<p>Prelazite u home folder, znacenje cd je change direktorij</p>

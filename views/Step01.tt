@@ -32,12 +32,12 @@
 	     <p>-Otici na stranicu Slackware i skinuti Slackware 10.2
 	     na jedan CD, ili usb, ali da ne komplikujemo sa usb neka ide na CD.</p> 
 	     <p>-Slackware 10.2 je mnogo stara verzija ali ce
-	     da nam pomogne za ove prve korake.U slucaju da nemate stariji racunar
+	     da nam pomogne za ove prve korake.U slucaju da nemate stari racunar
 	     tada preporucujem samo da imate neki hard-disk koji cete koristiti samo
 	     za Linux sa tom vasom novijom masinom.
 	     Molim vas imajte na umu da verzija 14.1 ili 14.2 Slackware-a
 	     zahtijeva 8 Gigabyte samo za operativni sistem.
-	     Dok za ovu stariju vezriju 10.2 moze i cijeli hard disk
+	     Dok za ovu stariju verziju 10.2 moze i cijeli hard disk
 	     da bude 2 Gigabyte.
 	     Prvo mora da znate downlodovati u ISO format, ako ne znate
 	     kako, nadjite nekog da vam to odradi,a vec ako ne znate kako skinutu
@@ -45,8 +45,8 @@
 	     postaviti boot DVD-CD na prvo mjesto,
 	     tako onda tu istu osobu koja ce vam odraditi prvu stvar
 	     neka vam pomogne i oko druge.
-	     Takodje mozete da kliknite gore desno
-	     tamo su sve informacije kako da stupite u kontakt samnom.</p>
+	     
+	     </p>
 	     <h3>.......</h3>
 	     
 	     <h1>Spremni?</h1>
@@ -72,9 +72,9 @@
 	         <h1>slackware login:</h1>
 	         <p>Ukucajte</p>
 	         <h2>root</h2> <p> stisnite Enter</p>
-	         <p>Bit ce ovako (slackware login:root)</p>
+	         
 	         <p> Sada smo logovani kao root korisnik</p>
-	         <h3>Zatim kucamo fdisk -ls (Stisnite Enter)</h3>
+	         <h3>Zatim kucamo fdisk -l (Stisnite Enter)</h3>
 	         <p>Na ekranu bi trebalo sada da vidite:</p>
 	         <p>dev/hda ili dev/hdb ili dev/sda dev/sdb ili ako bude
 	         nesto totalno drugacije zapisite na papir sta god da bude.</p>
@@ -146,7 +146,7 @@
 	         (znamo da smo je planirali u prvu)
 	         Kad izadje pitanje gdje je swap?
 	         Vi oznacite sta god npr dev/sdb2 ili tako slicno
-	         Kad izadje treci kao frame i pita vas kako zelite
+	         Kada izadje treci kao frame i pitanje kako zelite
 	         da nazovete ovu particiju vi ukucajte /home</p>
 	         <p>Sledece pitanje ce da bude odakle zelimo da instaliramo Slackware</p>
 	         <h2>Naravno izabrat cemo Install from CD - DVD</h2>
