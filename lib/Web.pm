@@ -152,7 +152,7 @@ use Dancer2;
 
     post '/login' => sub {
         # Validate the username and password they supplied
-        if (param('user') eq 'edin' && param('pass') eq 'in2') {
+        if (param('user') eq 'edin' && param('pass') eq 'E2') {
             session user => param('user');
             redirect param('path') || '/';
         } else {
