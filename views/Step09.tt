@@ -111,18 +111,20 @@ p {
             		   		
      <div class=metanav>
      
-			   		<h3>Logout</h3>
-           
-       
-         <a href="http://www.perl.ba:5000/logout">Log out</a>
+			   		
        
     </div>
-            
+              <h3>Registruj se</h3>
+            <a href="https://services.github.com/on-demand/intro-to-github/">Uvod i registracija</a>
             </form>
 
       </div>
 
     </div> <!-- /container -->
+    <h3>Logout</h3>
+           
+       
+         <a href="http://www.perl.ba:5000/logout">Log out</a>
 
 
     

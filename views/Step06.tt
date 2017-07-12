@@ -29,22 +29,20 @@
   </head>
 
   <body role="document">
-  
-  	
-  
+ 
   
   <div id="page">
 <div id ="sidebar">
 <ul id="sidebar-items">  
 
-    
-    
+     
     
     <a class="navbar-brand" href="" title="Home"><input type='submit' value='Home' /></a>
     
     <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/readable/bootstrap.min.css" rel="stylesheet">
     
     
+
 	<p>
 	<a class="btn btn-primary btn-lg"href="https://www.perl.org/"  role="button">Perl</a>
 	
@@ -68,8 +66,25 @@ body {
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
-        <h1>Perl</h1>
-        <head>
+      <head>
+      
+      <style>
+      h1 {
+    text-align: left;
+    color: lightblue;
+} 
+   </style>
+   </head>
+   <body>
+ <h1>Perl</h1>
+      
+  
+
+     
+ </body>
+ 
+ 
+ <head>
 <style>
 p {
     text-align: center;
@@ -80,7 +95,7 @@ p {
 <body>
 <p>Pathologically Eclectic Rubbish Lister</p>
   </body>      
-        <h3 class="featured-subtitle">"Practical Extraction and Reporting Language".</h3>
+        <h2 class="featured-subtitle">"Practical Extraction and Reporting Language".</h2>
 
 
 			   				
@@ -99,18 +114,60 @@ p {
 			   		
 			   		
 			   		
-			   		<h3>Sledeci korak</h3>
-            <input type='hidden' name='path' value=''/>
-             <form action='/Step07' method='POST'>
-            <input type='submit' value='CPAN' /> 
-            
-            </form>
+			   		
 
       </div>
 
     </div> <!-- /container -->
+    
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
 
+ <head>
+<style>
+h3 {
+    text-align: left;
+    color: black;
+} 
+</style>
+</head>
+<div class="container">
+  <h2>Uvod</h2>
+  <h3>........................</h3>
+  <h3>........................</h3>
+ 
+</div>
 
+</body>
+</html>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+<a><h3>Sledeci korak</h3></a>
+           
+
+ <a class="navbar-brand" href="" title="CPAN"> <input type='hidden' name='path' value=''/>
+ <form action='/Step07' method='POST'><input type='submit' value='CPAN' /> 
+ </a>
     
 
 

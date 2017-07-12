@@ -100,18 +100,17 @@ p {
 			   		
 			   		
 			   		
-			   		<h3>Sledeci korak</h3>
-            <input type='hidden' name='path' value=''/>
-             <form action='/Step09' method='POST'>
-            <input type='submit' value='GitHub' /> 
-            
-            </form>
+			   		
 
       </div>
 
     </div> <!-- /container -->
+    <h3>Sledeci korak</h3>
+           
 
-
+ <a class="navbar-brand" href="" title="GitHub"> <input type='hidden' name='path' value=''/>
+ <form action='/Step09' method='POST'><input type='submit' value='GitHub' /> 
+ </a>
     
 
 

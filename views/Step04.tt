@@ -30,14 +30,15 @@ body {
         <h1>Web Server</h1>
         <h2 class="featured-subtitle">HTTP</h2>
 
-			   		<p>Trenutno na nasem Operativnom Sistemu Slackware Linux distribuciji koju trenutno koristimo nalazi se Apache Web-Server</p>
+			   		<p>Trenutno na nasem Operativnom Sistemu Slackware Linux distribuciji koju koristimo nalazi se Apache</p>
+			   		<p>Web-Server</p>
 			   		<p>Kojeg mozemo pokrenuti uz malo muke</p>
 			   		<p>Sta je ustvari Apache???</p>
 			   		
 			   		<p>Ako koristite 10.2 verziju, tada kucate</p>
 			   		<p>cd /</p>
 			   		<p>Zatim: vim /etc/apache/httpd.conf</p>
-			   		<p>Ako koristite 14.</p>
+			   		<p>Ako koristite 14.1</p>
 			   		<p>cd /</p>
 			   		<p>Utipkajte: vim /etc/httpd/httpd.conf</p>
 			   		<p>Sad sa J i K gore dole malo pogledajte sta se nalazi tu</p>

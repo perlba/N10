@@ -37,7 +37,7 @@ body {
 			   		<p>Mora da ima u /home isto ime foldera kako ste nazvali user</p>
 			   		<p>cd /</p>
 			   		<p>cd /home/vas_user_name</p>
-			   		<p>Uhhh...zaboravio sam nesto</p>
+			   		<p>Zaboravio sam nesto</p>
 			   		<p>Kucajte ovako</p>
 			   		<p>setterm -foreground red(Enter)</p>
 			   		<p>setterm -store(Enter)</p>
@@ -85,7 +85,7 @@ body {
 			   		<p>Sada kada imate neki text nesto smo napisali</p>
 			   		<p>Sada treba to da snimimo i da sacuvamo, jel?</p>
 			   		<p>Prvo kliknemo Esc da zakljucamo dokument</p>
-			   		<p>Stisnemo tipku Shift(drzimo stisnutu) i klikneno (:)</p>
+			   		<p>Stisnemo tipku Shift(drzimo stisnutu) i klikneno dvotacku (:)</p>
 			   		<p>Dvotacku (:) mora sada da imamo dole lijevo u editoru prikazanu</p>
 			   		<p>Zatim: wq ime</p>
 			   		<h2>:wq ime(Tako)</h2>
