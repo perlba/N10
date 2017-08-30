@@ -45,6 +45,7 @@
 
 	<p>
 	<a class="btn btn-primary btn-lg"href="https://www.perl.org/"  role="button">Perl</a>
+	<a class="btn btn-primary btn-lg"href="https://tryperl.pl/"  role="button">TRY-PERL</a>
 	
 	</p>
     

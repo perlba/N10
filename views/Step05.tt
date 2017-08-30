@@ -133,13 +133,13 @@ h4 {
   <h2>Trece</h2>
   <p>Sledece kucajte:</p>
   <p> usr/share/mysql/mysql.server start
-  <p>Iskreno se nadam da sve ide po planu......</p>
+  <p>Iskreno se nadam da sve ide po planu.........</p>
   <p>Sledece: usr/bin/mysql -u root mysql -p
 </div>
 
 <div class="topic">
   <h2>4</h2>
-  <p>Trebalo bi da vamtrazi password ukucajte(neki) novi prilikom zavrsetka treceg koraka.</p>
+  <p>Trebalo bi da vam trazi password ukucajte(neki) novi prilikom zavrsetka treceg koraka.</p>
   <p>..............</p>
 </div>
 
@@ -170,7 +170,7 @@ h4 {
   <p>Tako da cete tu isto vidjeti neke osnove a na vama je dalje kolko cete da ucite</p>
   <p>Jos nesto ako nekome nije pokrenulo server preko usr/share/mysql/mysql.server start</p>
   <p>Probajte da kucate: etc/rc.d/rc.mysqld start</p>
-  <p>Pod tacku 6 sve cete kucate u jednu liniju nemoj te da kopirate sto pise, zato sto</p>
+  <p>Pod tacku 6 sve cete kucate u jednu liniju nemoj te da copy/paste, zato sto</p>
   <p>mora da ukucate svoje ime od korisnika i naravno neki totalno - totalno novi password</p>
               
               
